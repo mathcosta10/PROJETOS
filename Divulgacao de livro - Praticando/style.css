@@ -1,0 +1,42 @@
+div{text-align: center;
+border: 1px solid #D5D5D5;
+padding: 50px;}
+
+h1{font-family: Tahoma;
+text-align: center;
+margin-top: 0;
+font-size: 32px;}
+
+h2{font-size: 24px;
+font-family: Tahoma;
+text-align: center;
+margin-top: 0;}
+
+h3{font-size: 20px;
+font-family: Tahoma;
+text-align: center;
+margin-top: 0;}
+
+
+p{width: 930px; 
+margin-top: 15px;
+margin-bottom: 8px;
+margin-left: auto;
+margin-right: auto;
+padding: 10px;
+font-size: 16px;
+text-align: center;
+line-height: 24px;
+font-family: tahoma;}
+
+a{background-color: #49B970;
+color: white;
+border: 14px solid #49B970 ;
+border-radius: 15px;
+text-decoration: none;
+font-family: tahoma;
+margin: auto;
+padding: 5px 5px;
+text-align: center;}
+
+span{font-weight: bold;}

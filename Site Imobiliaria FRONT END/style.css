@@ -1,0 +1,117 @@
+body{text-align: center;
+margin: 0 auto;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.cabecalho{margin: 10 auto;
+background-color: #B0DDFC;
+text-align: center;
+justify-content: space-between;}
+
+.menu{color: black;
+gap: 30px;
+display: flex;
+justify-content: center;}
+
+.link-preto{color: black;
+font-family: tahoma;
+margin-bottom: 30px;}
+
+
+.logo{width: 200px;}
+
+.banner{margin-top: 20px;}
+
+.sobre h1{margin-bottom: 5px;}
+
+.sobre h2{margin-top: 0;
+font-size: 20px;
+color: #1D80C1;
+font-weight: normal;}
+
+.sobre img{width: 500px;}
+
+.sobre p{font-size: 16px;
+    line-height: 1.6;
+    max-width: 1000px;
+    margin: auto;
+    text-align: justify;
+    font-weight: 500;
+}
+
+.sobre span{color: #1D80C1;
+font-weight: bold;}
+
+.servicos{background-color: #1D80C1;
+color: white;
+text-align: center;
+padding-top: 40px;
+padding-bottom: 40px;}
+
+
+
+.servicos p{font-size: 16px;
+    line-height: 2;
+    max-width: 560px;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;}
+
+    .servicos span{color: yellow;}
+
+   .servicos ul{text-align: center;
+justify-content: center;
+margin: 20px;
+display: inline-block;
+line-height: 2;}
+
+.corretores{padding-top: 40px;}
+
+.corretores h2{color: #1D80C1;}
+
+.corretores img{width: 500px;}
+
+.corretores p{font-size: 16px;
+    line-height: 1.6;
+    max-width: 1000px;
+    margin: auto;
+    text-align: justify;
+    font-weight: 500;}
+
+    .corretores span{color: #1D80C1;
+    font-weight: bold;}
+
+    .contato{background-color: #1D80C1;
+        color: white;
+        text-align: center;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    display: flex;
+flex-direction: column;
+align-items: center;}
+
+        .contato iframe{width: 1000px;
+        height: 500px;}
+
+        .contato p{
+            background-color: #1D1D1D ;
+        text-align: center;
+    margin-top: 30px;
+    max-width: 1000px;
+    justify-content: center;
+margin: 20px auto;
+padding: 10px;}
+
+.contato span{color: yellow;}
+
+.contato a{ display: block;
+    background-color: #f0f0f0;
+    color: #1D80C1;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border-radius: 8px;
+    text-decoration: underline;
+    font-weight: 500;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: background-color 0.3s;
+    text-align: center;
+}
